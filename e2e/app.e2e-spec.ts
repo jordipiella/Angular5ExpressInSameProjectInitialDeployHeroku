@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('planmarcillaprofesional App', () => {
+describe('Angular5ExpressInSameProjectInitialDeployHeroku App', () => {
   let page: AppPage;
 
   beforeEach(() => {
